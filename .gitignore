@@ -1,0 +1,3 @@
+a-tour-of-cpp/**/*.out
+a-tour-of-cpp/**/*.o
+.vscode
